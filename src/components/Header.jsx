@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types'
+import PropTypes from "prop-types"
 
 // {text} - destructurized props
 function Header( {text, bgColor, textColor} ) {
